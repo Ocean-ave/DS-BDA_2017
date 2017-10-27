@@ -9,15 +9,15 @@
 
 ## Скриншоты
 
-[Выполнение теста.](HW1/screenshots/test_exec.png)
+[Выполнение теста.](screenshots/test_exec.png)
 
-[Загруженные в HDFS файлы.](HW1/screenshots/hdfs.png)
+[Загруженные в HDFS файлы.](screenshots/hdfs.png)
 
-[Выполнение программы (1).](HW1/screenshots/job_exec_1.png)
+[Выполнение программы (1).](screenshots/job_exec_1.png)
 
-[Выполнение программы (2).](HW1/screenshots/job_exec_2.png)
+[Выполнение программы (2).](screenshots/job_exec_2.png)
 
-[Результаты выполнения.](HW1/screenshots/results.png)
+[Результаты выполнения.](screenshots/results.png)
 
 ## Сборка и развертывание
 
