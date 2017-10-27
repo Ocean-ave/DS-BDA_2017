@@ -9,17 +9,17 @@
 
 ## Скриншоты
 
-[Выполнение теста.](HW1/screenshots/test_exec.png)
+[Выполнение теста.](DS-BDA_2017/HW1/screenshots/test_exec.png)
 
-[Загруженные в HDFS файлы.](HW1/screenshots/hdfs.png)
+[Загруженные в HDFS файлы.](DS-BDA_2017/HW1/screenshots/hdfs.png)
 
-[Выполнение программы (1).](HW1/screenshots/job_exec_1.png)
+[Выполнение программы (1).](DS-BDA_2017/HW1/screenshots/job_exec_1.png)
 
-[Выполнение программы (2).](HW1/screenshots/job_exec_2.png)
+[Выполнение программы (2).](DS-BDA_2017/HW1/screenshots/job_exec_2.png)
 
-[Результаты выполнения.](HW1/screenshots/results.png)
+[Результаты выполнения.](DS-BDA_2017/HW1/screenshots/results.png)
 
-# Сборка и развертывание
+#№ Сборка и развертывание
 
 ### Необходимо установить
 
